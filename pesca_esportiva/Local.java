@@ -18,7 +18,6 @@ public class Local {
 		this.latitude = latitude;
 		this.longitude = longitude;
 	}
-}
 	Local(){//Declarando um objeto de teste
 		this.endereco = "Rua 1";
 		this.cidade = "nenhuma";
@@ -39,6 +38,6 @@ public class Local {
 		
 	}
 	
-	public void checarcep(); {
+	public void checarcep() {
 		
 	}
